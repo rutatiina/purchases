@@ -1,0 +1,25 @@
+{
+    "name": "rutatiina/purchases",
+    "description": "Load all purchases laravel packages",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gilbert Rutatiina",
+            "email": "rutatiina@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+        "laravel/framework": "^8.0",
+        "rutatiina/tenant": "*",
+        "rutatiina/financial-accounting": "*",
+        "rutatiina/tax": "*",
+        "rutatiina/contact": "*",
+        "rutatiina/expense": "*",
+        "rutatiina/purchase-order": "*",
+        "rutatiina/bill": "*",
+        "rutatiina/payment-made": "*",
+        "rutatiina/debit-note": "*"
+    }
+}
