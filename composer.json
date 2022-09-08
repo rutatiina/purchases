@@ -21,5 +21,6 @@
         "rutatiina/bill": "dev-main",
         "rutatiina/payment-made": "dev-main",
         "rutatiina/debit-note": "dev-main"
+        // "rutatiina/petty-cash": "dev-main"
     }
 }
